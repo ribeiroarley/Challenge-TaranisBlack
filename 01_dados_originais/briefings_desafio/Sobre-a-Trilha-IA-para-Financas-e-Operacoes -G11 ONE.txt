@@ -1,0 +1,247 @@
+Sobre esta trilha
+
+Estratégia com IA
+Boas-vindas à Formação IA para Finanças e Operações, onde você mergulhará na convergência entre inteligência artificial, automação de processos e análise financeira estratégica. Esta formação é uma jornada altamente prática e focada em produtividade que te equipará com as ferramentas e metodologias necessárias para transformar planilhas estáticas em fluxos inteligentes, reduzir erros manuais e destravar a eficiência operacional do seu negócio.
+
+O que você vai aprender:
+
+Automação Avançada de Excel com IA: Comece dominando o uso de ferramentas como Power Query, Power Pivot e recursos modernos de IA (como o Microsoft Copilot). Você aprenderá a automatizar a extração, tratamento e consolidação de grandes volumes de dados financeiros, reduzindo horas de trabalho manual a poucos cliques.
+
+Análise de Dados Financeiros e Dashboards com Claude: Aprenda a estruturar projetos analíticos utilizando o Claude para interpretar demonstrativos de resultados, relatórios de fluxo de caixa e cenários orçamentários. Descubra como criar prompts que previnem alucinações da IA e geram dashboards executivos claros e confiáveis.
+
+Mapeamento de Processos e Otimização Lean: Explore os princípios do Lean Thinking e RPA (Robotic Process Automation) para auditar a operação da sua empresa. Você aprenderá a mapear a jornada de processos internos, identificar gargalos, eliminar desperdícios e redesenhar rotinas para torná-las mais ágeis e econômicas.
+
+Automações No-Code com Make: Aprofunde-se na criação de fluxos de integração inteligentes conectando ferramentas como planilhas, sistemas internos e aplicativos de mensagens (como WhatsApp e e-mail). Saiba como disparar respostas automáticas, sincronizar bases operacionais e notificar equipes em tempo real sem precisar escrever linhas complexas de código.
+
+Gestão de Riscos Operacionais e Eficiência Financeira: Finalize sua formação aprendendo a validar saídas analíticas, auditar fluxos automatizados e estruturar indicadores de desempenho operacional (KPIs). Você desenvolverá a segurança necessária para colocar automações em produção com total confiabilidade.
+
+Nesta formação você vai aprender como transformar a inteligência artificial no motor de precisão e produtividade das suas finanças e operações corporativas. Bora começar?
+
+
+Análise financeira eficiente: Automatize o Excel com Power Query e Power Pivot.
+
+Aulas
+Descomplicando bases de dados com Power Query
+Ver primeiro vídeo
+9 / 9
+27min
+Apresentação
+Preparando o ambiente
+Por que as bases são tão complexas?
+Para saber mais - SQL para iniciantes: um guia básico
+Conhecendo o Power Query
+Mão na massa: ajustando consultas no Power Query
+Removendo colunas
+Importando CSV com Power Query
+O que aprendemos?
+Tratando as bases de dados no Power Query
+9 / 9
+27min
+Projeto da aula anterior
+Preparando o ambiente: arquivos usados durante a aula
+Fornecedores por região
+Para saber mais: conexão com diferentes fontes de dados no Power Query
+Resolvendo decimais com ponto
+Ajustando formatos no Power Query
+Valores por cidade
+Faça como eu fiz: analisando despesas por região usando uma Tabela Dinâmica
+O que aprendemos?
+Analisando os dados com Power Query
+9 / 9
+32min
+Projeto da aula anterior
+Analisando divergência de valor
+Criando um tabelão
+Para saber mais: função PROCX no Excel
+Mão na massa: comparando bases de dados
+Combinando dados no Power Query
+Multiplicando dados no Power Query
+Para saber mais: mesclar consultas avançadas no Power Query
+O que aprendemos?
+Acrescentando novos dados no Power Query
+8 / 8
+34min
+Projeto da aula anterior
+Incluindo dados na consulta de divergência
+Acrescentando consultas
+Mão na massa: eliminando colunas
+Para saber mais - Linguagem M no Power Query: explorando e automatizando transformações de dados
+Planejamento de consultas no Power Query
+Planejando melhor as consultas
+O que aprendemos?
+Otimizando processos de consultas e arquivos
+11 / 11
+25min
+Projeto da aula anterior
+Ajustando a fonte da consulta
+Usando a Inteligência Artificial
+Mão na massa: criando macros para atualização automática de dados
+Para saber mais: uso de conexões relativas no Power Query
+Automatizando a cópia dos arquivos
+VBA e Power Query em ação
+Projeto final
+Para ir mais fundo
+O que aprendemos?
+Conclusão
+
+
+Claude para Análise de Dados: Prompts, integrações e automações.
+Aulas
+Trabalhando com arquivos no Claude como analista de dados
+Ver primeiro vídeo
+11 / 11
+31min
+Apresentação
+Preparando o ambiente
+O papel do Claude no fluxo do analista-
+Otimizando a gestão de dados no Gatito Petshop
+Upload de arquivos e leitura inicial das bases
+Analisando dados de vendas na Zoop
+Quando usar CSV, XLSX, PDF e documentos de apoio-
+Gerenciamento de estoque eficiente na Zoop com Claude
+Para saber mais: resumos visuais no claude
+Faça como eu fiz: projeto Claude
+O que aprendemos?
+Editando planilhas e criando arquivos úteis com Claude
+9 / 9
+27min
+Criando uma planilha de análise do zero-
+Otimização de entregas com planilhas na Hermex Log
+Editando uma planilha existente-
+Aprimorando relatórios de segurança com Claude for Excel
+Gerando documentos e apresentações a partir da análise-
+Criando habilidades personalizadas para a loja Meu Pequeno Grimório
+Para saber mais: pré-visualização e validação de artefatos
+Faça como eu fiz: criar planilha e skills
+O que aprendemos?
+Conectores do Claude para reunir contexto de trabalho
+10 / 10
+33min
+Google Workspace no dia a dia do analista-
+Organizando informações para recomendações de livros
+Microsoft 365 para analistas SharePoint OneDrive, Outlook e Teams-
+Otimização de busca de músicas na Playcatch
+Como perguntar melhor para o Claude quando há conectores-
+Gerenciamento de permissões no e-commerce UseDev
+O que Claude pode acessar e o que ele não pode fazer-
+Para saber mais: nomenclatura consistente para recuperação de dados
+Faça como eu fiz: integrar conectores
+O que aprendemos?
+Entendendo o Claude Code com Plugins
+8 / 8
+10min
+O que são plugins no Claude Code e por que eles mudam o fluxo de trabalho-
+Automatizando agendamentos de serviços veterinários
+Instalando e explorando plugins no Claude Code-
+Utilizando plugins para melhorar a gestão de inventário
+Melhorando a experiência do cliente na Petpark com dashboards de dados
+Para saber mais: cuidados com caminhos de dados
+Faça como eu fiz: usar plugins no Claude
+O que aprendemos?
+Live Artifacts para entregáveis vivos
+10 / 10
+16min
+O que muda quando a análise vira artifact-
+Personalizando a experiência de leitura no Buscante com Live Artifacts
+Criando um painel analítico interativo-
+Implementando Live Artifacts no HomeHub para otimização de energia
+Refinando o artifact-
+Implementação de dashboards para adoção de animais
+Quando usar Live Artifacts e quando usar BI tradicional-
+Para saber mais: iteratividade na construção de prompts
+Faça como eu fiz: Live Artifacts
+O que aprendemos?
+Web search e fluxo completo de análise conectada
+9 / 9
+10min
+Usando web search para enriquecer a análise-
+Integrando dados externos na estratégia de marketing da Zoop
+Cruzando contexto interno e contexto externo-
+Otimizando rotas de entrega com análise de dados
+Identificando oportunidades de melhoria em campanhas de marketing
+Para saber mais: benchmarking de desempenho com dados externos
+Faça como eu fiz: cruzamento de dados
+O que aprendemos?
+Conclusão-
+
+Gestão de Processos: Mapeamento e automação com Lean e RPA
+Aulas
+Fundamentos da Gestão por Processos
+Ver primeiro vídeo
+0 / 9
+46min
+Apresentação
+Download do material
+Gestão de Processos
+Tipos de processos e a liderança
+Melhoria contínua e mindset Kaizen
+Para saber mais: kaika e kakushin: mudanças em foco
+Melhorando a experiência do cliente no UseDev
+Faça como eu fiz: Gestão de Processos
+O que aprendemos?
+Diagnóstico e mapeamento de processos
+0 / 7
+40min
+Mapeamento As Is To Be
+Identificando gargalos e ineficiências
+Identificando gargalos no atendimento
+Ferramentas de análise e priorização
+Faça como eu fiz: mapeamento e melhoria
+Para saber mais: inteligência artificial como conselheira
+O que aprendemos?
+Implantação de melhorias e metodologias
+0 / 7
+34min
+Ciclo PDCA e Lean Thinking
+Aplicando o ciclo PDCA no Bytebank para melhorar a experiência do cliente
+Kaizen Blitz e projetos de melhorias
+Integração com métodos ágeis
+Para saber mais: organizando kaizen blitz com inteligência artificial
+Faça como eu fiz: PDCA, Lean e Kaizen
+O que aprendemos?
+Indicadores, automação e análise de dados
+0 / 7
+36min
+Definição de KPIS e gestão visual
+OKRs aplicados à melhoria de processos
+Automação com RPA
+Definindo KPIs para a plataforma de gestão de tarefas
+Para saber mais: checklist para automatização de processos
+Faça como eu fiz: KPIs, OKRs e RPA
+O que aprendemos?
+Liderança, comunicação e aplicação estratégica
+0 / 9
+39min
+Competências do líder orientado a processos
+Engajamento de equipes e facilitação de workshops
+Para saber mais: preparação e logística em workshops
+Faça como eu fiz: liderança e workshop
+Comunicação de Resultados
+Implementando PDIs na Freelando
+Facilitando a mudança no Gatito Petshop
+Conclusão
+O que aprendemos?
+
+Make: Automatizando respostas de clientes.
+Aulas
+Construindo uma automação no Make
+Ver primeiro vídeo
+0 / 12
+52min
+Apresentação
+Preparando o ambiente
+Realizando nossa primeira conexão
+Identificando dúvidas
+Associando dúvida ao FAQ
+Finalizando a automação
+Para saber mais: Limitando tokens
+Para saber mais: Utilizando serviços Gmail
+Para saber mais: Entendendo a barra de ferramentas do Make
+Para saber mais: Como enviar e-mails com Make+Outlook
+Projeto final
+Conclusão
+Praticando automações no Make
+0 / 2
+Mão na massa: Automatização de alertas de estoque
+Mão na massa: Categorizando e-mails
+

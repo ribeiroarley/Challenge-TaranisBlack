@@ -1,0 +1,51 @@
+Apresentando o desafio e objetivos do vídeo
+Olá a todos, olá a todas. Meu nome é Eric Monné e eu gostaria de dar as boas-vindas ao challenge (desafio) do AI for Business (IA para Negócios). Se você chegou até aqui, já passou por conteúdos importantes sobre inteligência artificial, estratégia, dados e ética, e agora chegou a hora de colocar tudo isso em prática.
+
+Antes, faço a minha autodescrição para fins de acessibilidade. Eu sou um homem de pele clara, tenho cabelo, olhos e um pouco de barba escuros. Meu cabelo é curto, uso óculos e estou vestindo uma camiseta preta. Estou em um quarto com um guarda-roupa branco e uma luz azul em degradê atrás de mim. É possível ver, no fundo, parte do meu assento, a minha cadeira e também o meu microfone em preto e cinza.
+
+Neste vídeo, nós vamos explicar o que é o challenge (desafio), como ele está estruturado, como está dividido e o que você vai entregar no final. Preste atenção, porque será necessário submeter o seu resultado ao final; há uma atividade específica para isso, que nós vamos detalhar ao término deste vídeo. Também vamos explicar como submeter o trabalho na plataforma. Fique conosco; será rápido e direto ao ponto.
+
+Contextualizando a empresa e a estrutura do desafio
+Parabéns: você acaba de fechar um contrato com a empresa simulada, fictícia, chamada Taranis Black. A Taranis Black é uma empresa brasileira de ergonomia corporativa. Ela vende cadeiras de alto desempenho, mesas elétricas e cabines acústicas para escritórios. Possui faturamento anual de 48 milhões de reais, conta com 280 colaboradores e apresentou crescimento acelerado nos últimos três anos, com 35% ao ano. Esse crescimento tem um custo: os processos permaneceram manuais e burocráticos, e a empresa está começando a perder eficiência. Por isso, a CEO da Taranis Black decidiu investir em inteligência artificial e contratou você como pessoa consultora de IA para negócios. O seu papel será entrar na empresa, entender os problemas e propor soluções práticas usando IA.
+
+Vamos entender como esse challenge (desafio) está estruturado. Ele está dividido em duas partes. A primeira é a base estratégica, que nós chamamos de rota zero. A rota zero é obrigatória e igual para todas as pessoas, independentemente da área de especialidade. Nela, você vai desenvolver a fundação de IA da empresa, gerar um diagnóstico executivo e construir a política corporativa de IA. Já a parte 2 é a especialização. Nela, você vai escolher uma rota. Depois de concluir a rota zero, você escolhe uma das quatro verticais para aprofundar: a rota 1 é IA para Vendas e Comercial; a rota 2 é IA para Marketing e Conteúdo; a rota 3 é IA para Recursos Humanos e People Analytics (análise de pessoas); e a rota 4 é IA para Finanças e Operações. Cada uma dessas rotas possui uma etapa obrigatória e uma etapa opcional para quem quiser se aprofundar ainda mais.
+
+Vamos detalhar a rota zero. Quais são os três objetivos específicos dessa rota? Primeiro, aplicar o AI Canvas (Canvas de IA) na Taranis Black e mapear os três melhores casos de uso de IA na empresa. Segundo, construir a Matriz Esforço × Impacto para priorizar quais iniciativas implementar primeiro e, a partir disso, elaborar um plano de métricas e de gestão de mudanças. Por fim, você vai redigir a política corporativa de IA responsável da empresa: o que as pessoas colaboradoras podem ou não fazer com ferramentas como o ChatGPT, Gemini e Claude, e outras ferramentas de IA generativa e LLMs (Large Language Models, Modelos de Linguagem de Grande Porte) que vocês pretendem utilizar na empresa. Isso garante a conformidade com a LGPD (Lei Geral de Proteção de Dados). Essa base é o alicerce do trabalho e assegura que qualquer profissional, independentemente da área, desenvolva uma visão executiva e estratégica sobre IA.
+
+Apresentando as rotas de especialização e missões
+Vamos apresentar rapidamente cada uma das rotas para você entender qual faz mais sentido para o seu perfil. A primeira rota é Vendas e Comercial. Nela, o problema é que a equipe perde mais de 40% do tempo semanal em tarefas manuais, que envolvem preencher o CRM (gestão de relacionamento com clientes), escrever e-mails genéricos e tentar qualificar os leads (contatos qualificados). A sua missão obrigatória será construir o playbook (guia prático) de vendas consultivas da Taranis Black no ChatGPT ou em outra ferramenta, mapeando as cinco maiores objeções de clientes e criando prompts (instruções) para treinar argumentos.
+
+Essa rota é indicada para pessoas vendedoras, SDRs e pessoas analistas comerciais.
+
+Já a rota 2 é para áreas de Marketing (marketing) e Conteúdo. Nela, o problema é que o time de marketing tem quatro pessoas diferentes para alimentar Instagram, TikTok, LinkedIn e Blog (blog), tudo ao mesmo tempo. O tom de voz se perde, e as respostas nas redes acabam demorando mais de 24 horas. A missão será criar o manual de tom de voz da Taranis Black e configurar um assistente — seja no Gemini, no ChatGPT ou em outra ferramenta — capaz de transformar um único conteúdo semente em posts (publicações) para vários canais. Essa rota é indicada para pessoas profissionais de Marketing, de Social Media (mídias sociais) e pessoas criadoras de conteúdo.
+
+Já a rota 3 é a rota de RH e People Analytics (análise de pessoas). Nela, o problema é que o turnover (rotatividade) dos primeiros 90 dias chegou a 24%, o eNPS caiu muito e lideranças recém-promovidas estão encontrando dificuldade para conduzir os feedbacks mais desafiadores. A missão obrigatória será criar um simulador de treinamento de liderança no ChatGPT, Gemini ou outra ferramenta: um agente que assume a persona de pessoas colaboradoras desafiadoras para que as pessoas gestoras possam praticar o modelo de feedback SBI em um ambiente seguro. Essa rota é indicada para pessoas BPs de RH, para pessoas analistas de R&S e para pessoas gestoras de equipe.
+
+Finalmente, a rota 4 é a rota de Finanças e Operações. Nela, o problema é que toda a conciliação financeira é feita manualmente entre três planilhas e um ERP legado, gerando cinco dias de atraso no fechamento mensal e diversos erros de cobrança. A missão obrigatória será mapear o fluxo de aprovação de pedido usando a matriz SIPOC e construir, com o apoio da IA, um diagrama de Ishikawa para identificar as causas-raiz do gargalo. Essa rota é indicada para pessoas analistas financeiras, para profissionais de controladoria — isto é, pessoas em cargos de responsabilidade de controle ou gestão financeira, como controllers — e para pessoas analistas de operações.
+
+Agora que já detalhamos todas as rotas, vamos para a parte mais importante: como você vai entregar esse trabalho.
+
+Preparando e enviando o projeto
+Primeiro, você vai receber o link de um template (modelo) padrão no Google Docs. Acesse esse link e faça uma cópia para a sua própria conta do Google.
+
+Em seguida, preencha o template (modelo) com o seu trabalho. Ele já tem os campos estruturados para cada etapa, a Rota 0 e a rota de especialização que você escolheu. Os artefatos que você criou ao longo do Challenge (desafio) — como prompts, playbooks (guias de procedimentos), skills (habilidades) e análises — entram no template (modelo) como links (hiperlinks) e prints (capturas de tela), cada um com uma breve explicação de uso.
+
+Este passo é essencial: ajuste as permissões do documento para a opção “qualquer pessoa com o link pode visualizar”. Sem isso, não conseguiremos abrir o seu link.
+
+Por fim, acesse a plataforma da Alura, vá até a atividade chamada Entrega do Challenge, aqui neste mesmo curso, e cole o link do seu Google Docs no campo de entrega.
+
+Faça uma pausa para registrar. Vamos repetir: acesse a plataforma da Alura, vá até a atividade chamada Entrega do Challenge, aqui neste mesmo curso, e cole o link do seu Google Docs no campo de entrega.
+
+Esse é o único formato de entrega aceito — apenas o link —, portanto não é necessário enviar arquivos em qualquer outro formato. No template (modelo) no Google Docs, existe também um campo opcional para colar o link (hiperlink) de um vídeo de demonstração, caso você opte por gravar a apresentação do seu trabalho. Isso é totalmente opcional.
+
+Finalizando com dicas e próximos passos
+Antes de finalizar, vamos compartilhar algumas dicas rápidas:
+
+Utilize os dados simulados que estamos vendo aqui na tela, que já estão disponíveis. Não é necessário criar nada do zero: o catálogo de produtos, os dados de RH e o fluxo operacional da Taranis Black já estão prontos para uso.
+Escreva o relatório como se estivesse apresentando para a pessoa CEO da empresa. Clareza e aplicabilidade prática valem mais do que uma grande quantidade de páginas.
+Não tente fazer tudo perfeito de uma vez. Comece pela Rota 0, que é a base. Dedique um tempo de qualidade a ela e, depois, mergulhe na especialização que você escolheu.
+Esse Challenge (desafio) é uma oportunidade real de construir algo concreto para o seu portfólio, algo que você possa mostrar em uma entrevista, em uma conversa com sua pessoa gestora ou usar como referência em projetos futuros. É recomendável construir algo de que você se orgulhe.
+
+Eu desejo agora a todos um bom trabalho, e, para qualquer dúvida, a comunidade no Discord e o fórum estão disponíveis para vocês.
+
+Vamos começar?
