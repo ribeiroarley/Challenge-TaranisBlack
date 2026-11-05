@@ -2,6 +2,7 @@
 **Taranis Black Mobiliário Corporativo & Ergonomia Ativa S.A.**  
 **Código Normativo:** POL-GOV-IA-2026.1 | Versão 1.0  
 **Aprovação:** Diretoria Executiva, Encarregado de Dados (DPO) e Comitê de Governança de IA  
+**Autor:** Arley Ribeiro da Silva Xavier | Consultor de IA  
 **Data de Vigência:** Ano Fiscal 2026  
 **Classificação do Documento:** Uso Interno Obrigatório (Todos os 280 Colaboradores)  
 

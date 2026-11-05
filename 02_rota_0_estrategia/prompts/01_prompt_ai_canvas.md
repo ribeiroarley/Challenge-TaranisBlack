@@ -1,6 +1,8 @@
 # PROMPT-R0-01 - CONSTRUÇÃO DO AI CANVAS CORPORATIVO (TARANIS BLACK)
 - **Data/Hora de Execução:** 2026-11-05 16:45:49-03:00
 - **Modelo LLM:** Antigravity (Gemini 3.8 Flash Medium)
+- **Autor:** Arley Ribeiro da Silva Xavier
+- **Papel / Cargo:** Consultor de IA
 - **Rota:** Rota 0 — Estratégia Corporativa de IA
 - **Artefato Gerado:** [`02_rota_0_estrategia/01_ai_canvas_taranis_black.md`](../01_ai_canvas_taranis_black.md)
 - **Status da Validação:** Homologado / Concluído

@@ -1,6 +1,7 @@
 # ⚖️ REGRAS OPERACIONAIS & DIRETRIZES DE GOVERNANÇA TÉCNICA
 **Projeto:** Challenge AI for Business — Taranis Black (ONE | G11)  
 **Documento Mestre de Governança:** `00_contexto_e_regras/REGRAS_GOVERNANCA.md`  
+**Autor:** Arley Ribeiro da Silva Xavier | Consultor de IA  
 **Data de Vigência:** Ano Fiscal 2026 | Versão 1.0  
 **Aplicação:** Mandatória para todas as interações e artefatos de IA do projeto  
 

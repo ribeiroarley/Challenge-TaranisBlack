@@ -4,6 +4,11 @@ Projeto consultivo de Inteligência Artificial aplicada à estratégia, finança
 
 ---
 
+**Autor:** Arley Ribeiro da Silva Xavier (Consultor de IA)  
+**Projeto:** Challenge AI for Business — Taranis Black (ONE G11)  
+
+---
+
 ## 1. Visão Geral e Contexto da Empresa
 
 A **Taranis Black** é uma fabricante e distribuidora brasileira de mobiliário corporativo de alta performance e ergonomia ativa (cadeiras de trabalho ErgoPro, mesas com ajuste elétrico de altura SmartDesk e cabines acústicas Silence).

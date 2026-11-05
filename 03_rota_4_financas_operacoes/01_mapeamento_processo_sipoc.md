@@ -3,7 +3,7 @@
 **Documento de Entrega — Rota 4 (Finanças e Operações) | AI for Business (ONE G11)**  
 **Público-Alvo:** CEO, Diretor Financeiro (CFO), Gerente de Operações e CD Joinville  
 **Data de Emissão:** Ano Fiscal 2026 | Versão 1.0  
-**Autor:** Consultor de IA  
+**Autor:** Arley Ribeiro da Silva Xavier | Consultor de IA  
 
 ---
 

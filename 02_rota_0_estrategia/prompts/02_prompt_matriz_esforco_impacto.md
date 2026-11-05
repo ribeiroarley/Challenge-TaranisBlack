@@ -1,6 +1,8 @@
 # PROMPT-R0-02 - MATRIZ ESFORÇO × IMPACTO, MÉTRICAS (OKRs) E GESTÃO DE MUDANÇAS (ADKAR)
 - **Data/Hora de Execução:** 2026-11-05 16:48:07-03:00
 - **Modelo LLM:** Antigravity (Gemini 3.8 Flash Medium)
+- **Autor:** Arley Ribeiro da Silva Xavier
+- **Papel / Cargo:** Consultor de IA
 - **Rota:** Rota 0 — Estratégia Corporativa de IA
 - **Artefato Gerado:** [`02_rota_0_estrategia/02_matriz_esforco_impacto_metricas_mudancas.md`](../02_matriz_esforco_impacto_metricas_mudancas.md)
 - **Status da Validação:** Homologado / Concluído

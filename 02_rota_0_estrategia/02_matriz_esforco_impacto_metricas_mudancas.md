@@ -2,7 +2,7 @@
 **Documento Estratégico da Rota 0 — Fundação de IA Corporativa | Taranis Black**  
 **Público-Alvo:** CEO, Diretoria Financeira (CFO), Gerência de Operações e Lideranças de RH  
 **Data de Emissão:** Ano Fiscal 2026 | Versão 1.0  
-**Autor:** Consultor de IA  
+**Autor:** Arley Ribeiro da Silva Xavier | Consultor de IA  
 
 ---
 

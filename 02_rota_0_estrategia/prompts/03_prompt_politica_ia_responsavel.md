@@ -1,6 +1,8 @@
 # PROMPT-R0-03 - POLÍTICA CORPORATIVA DE IA RESPONSÁVEL & DIRETRIZES DE CONFORMIDADE LGPD
 - **Data/Hora de Execução:** 2026-11-05 16:54:30-03:00
 - **Modelo LLM:** Antigravity (Gemini 3.8 Flash Medium)
+- **Autor:** Arley Ribeiro da Silva Xavier
+- **Papel / Cargo:** Consultor de IA
 - **Rota:** Rota 0 — Estratégia Corporativa de IA
 - **Artefato Gerado:** [`02_rota_0_estrategia/03_politica_corporativa_ia_lgpd.md`](../03_politica_corporativa_ia_lgpd.md)
 - **Status da Validação:** Homologado / Concluído

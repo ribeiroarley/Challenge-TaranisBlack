@@ -2,7 +2,7 @@
 **Documento Estratégico de Fundação da Rota 0 | AI for Business (ONE G11)**  
 **Público-Alvo:** CEO, Diretoria Executiva (C-Level) e Conselho Consultivo  
 **Data de Emissão:** Ano Fiscal 2026 | Versão 1.0  
-**Autor:** Consultoria de IA  
+**Autor:** Arley Ribeiro da Silva Xavier | Consultor de IA  
 
 ---
 

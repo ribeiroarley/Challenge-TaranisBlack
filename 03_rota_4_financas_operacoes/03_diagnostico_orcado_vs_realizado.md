@@ -3,7 +3,7 @@
 **Documento de Entrega — Rota 4 (Finanças e Operações) | AI for Business (ONE G11)**  
 **Público-Alvo:** CEO, Conselho de Administração e Diretoria Financeira (CFO)  
 **Data de Emissão:** Ano Fiscal 2026 | Versão 1.0  
-**Autor:** Consultor de IA  
+**Autor:** Arley Ribeiro da Silva Xavier | Consultor de IA  
 
 ---
 
@@ -139,7 +139,7 @@ flowchart LR
 ## 5. Parecer Consultivo para a CEO da Taranis Black
 
 **Para:** Diretora Presidente (CEO) — Taranis Black S.A.  
-**De:** Consultor de IA  
+**De:** Arley Ribeiro da Silva Xavier (Consultor de IA)  
 **Assunto:** Voto de Recomendação Estratégica para o Conselho de Administração  
 
 Prezada CEO,

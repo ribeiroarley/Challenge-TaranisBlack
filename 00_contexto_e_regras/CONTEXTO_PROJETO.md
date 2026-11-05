@@ -1,6 +1,7 @@
 # 📋 CONTEXTO OFICIAL DO PROJETO & RADIOGRAFIA CORPORATIVA
 **Projeto:** Challenge AI for Business — Taranis Black (ONE | G11)  
 **Documento Mestre de Contexto Contínuo:** `00_contexto_e_regras/CONTEXTO_PROJETO.md`  
+**Autor:** Arley Ribeiro da Silva Xavier | Consultor de IA  
 **Data de Atualização:** 2026-11-05 | Versão 1.0  
 **Status do Projeto:** Rota 0 Concluída | Transição para a Rota 4 (Finanças e Operações)  
 

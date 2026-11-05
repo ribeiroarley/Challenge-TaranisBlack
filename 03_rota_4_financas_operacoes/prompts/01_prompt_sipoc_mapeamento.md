@@ -1,6 +1,8 @@
 # PROMPT-R4-01 - MAPEAMENTO LEAN DO MACROPROCESSO DE PEDIDOS (MATRIZ SIPOC)
 - **Data/Hora de Execução:** 2026-11-05 17:01:11-03:00
 - **Modelo LLM:** Antigravity (Gemini 3.8 Flash Medium)
+- **Autor:** Arley Ribeiro da Silva Xavier
+- **Papel / Cargo:** Consultor de IA
 - **Rota:** Rota 4 — Finanças e Operações
 - **Artefato Gerado:** [`03_rota_4_financas_operacoes/01_mapeamento_processo_sipoc.md`](../01_mapeamento_processo_sipoc.md)
 - **Status da Validação:** Homologado / Concluído

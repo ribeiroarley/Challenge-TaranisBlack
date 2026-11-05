@@ -1,6 +1,8 @@
 # PROMPT-R4-03 - DIAGNÓSTICO FINANCEIRO: DRE ORÇADO VS. REALIZADO E RECUPERAÇÃO COM IA
 - **Data/Hora de Execução:** 2026-11-05 17:17:06-03:00
 - **Modelo LLM:** Antigravity (Gemini 3.8 Flash Medium)
+- **Autor:** Arley Ribeiro da Silva Xavier
+- **Papel / Cargo:** Consultor de IA
 - **Rota:** Rota 4 — Finanças e Operações
 - **Artefato Gerado:** [`03_rota_4_financas_operacoes/03_diagnostico_orcado_vs_realizado.md`](../03_diagnostico_orcado_vs_realizado.md)
 - **Status da Validação:** Homologado / Concluído

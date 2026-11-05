@@ -1,6 +1,6 @@
 # RELATÓRIO EXECUTIVO DE AUDITORIA E ORGANIZAÇÃO ESTRUTURAL
 **Data e Hora da Auditoria:** 2026-11-05 16:43:12
-**Engenheiro Responsável:** Senior Software Engineer & AI Enterprise Consultant
+**Responsável Técnico / Autor:** Arley Ribeiro da Silva Xavier (Consultor de IA)
 **Cliente / Projeto:** Taranis Black — Challenge AI for Business (ONE | G11)
 **Ambiente de Execução:** Windows 11 | Python Virtualenv (`.venv`)
 

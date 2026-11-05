@@ -1,6 +1,8 @@
 # PROMPT-R4-02 - DIAGRAMA DE CAUSA-RAIZ DE ISHIKAWA (6M) & ANÁLISE DOS 5 PORQUÊS
 - **Data/Hora de Execução:** 2026-11-05 17:09:17-03:00
 - **Modelo LLM:** Antigravity (Gemini 3.8 Flash Medium)
+- **Autor:** Arley Ribeiro da Silva Xavier
+- **Papel / Cargo:** Consultor de IA
 - **Rota:** Rota 4 — Finanças e Operações
 - **Artefato Gerado:** [`03_rota_4_financas_operacoes/02_diagrama_ishikawa_6m_causas_raiz.md`](../02_diagrama_ishikawa_6m_causas_raiz.md)
 - **Status da Validação:** Homologado / Concluído
